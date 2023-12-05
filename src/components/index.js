@@ -1,4 +1,4 @@
 //Components
-import InputBox from './inputBox.jsx' 
+import InputBox from './InputBox.jsx' 
 
 export {InputBox} 
